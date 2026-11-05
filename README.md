@@ -34,7 +34,7 @@ flowchart LR
 ### 1. 获取代码
 
 ```powershell
-git clone https://github.com/<你的账号>/novel-voice-studio.git
+git clone https://github.com/1064848120/novel-voice-studio.git
 cd novel-voice-studio
 ```
 

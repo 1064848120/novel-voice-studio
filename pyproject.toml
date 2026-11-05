@@ -21,9 +21,9 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/<你的账号>/novel-voice-studio"
-Repository = "https://github.com/<你的账号>/novel-voice-studio"
-Issues = "https://github.com/<你的账号>/novel-voice-studio/issues"
+Homepage = "https://github.com/1064848120/novel-voice-studio"
+Repository = "https://github.com/1064848120/novel-voice-studio"
+Issues = "https://github.com/1064848120/novel-voice-studio/issues"
 
 [project.scripts]
 novel-voice-studio = "novel_studio.app:main"
