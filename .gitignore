@@ -1,0 +1,44 @@
+# Python / local environments
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Local model runtimes and weights (download separately; never commit these)
+models/
+runtimes/breeze-env/
+runtimes/breeze-tts/
+index-webui-data/
+
+# Local application data and generated media
+logs/
+projects/
+exports/
+audio/
+*.wav
+*.mp3
+*.m4b
+*.flac
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.bin
+
+# Editor / OS files
+.idea/
+.vscode/
+*.code-workspace
+Thumbs.db
+Desktop.ini
+
+# Local design notes and temporary assets
+.taste-skill/
+*.bak
+*.tmp
