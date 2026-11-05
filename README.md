@@ -1,5 +1,6 @@
 <img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/7a8012da-fe66-49b3-bf64-6aa7975a5eec" /># 声章 · 多角色声章批量工坊
-![Uploading task-mw39prnj117hj.png…]()
+<img width="1280" height="720" alt="task-mw39tpml30y7y" src="https://github.com/user-attachments/assets/175aefdb-d4a6-4acf-97db-5f030480c890" />
+
 
 
 面向普通创作者的 Windows 本地小说自动配音工具。导入 TXT/EPUB 后，只需选择章节范围并点击一次 **开始自动制作**，应用会完成文本分析、人物识别、固定声音设计、情绪对白生成、质检、混音和章节导出。
